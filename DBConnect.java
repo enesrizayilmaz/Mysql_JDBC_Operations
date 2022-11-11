@@ -11,9 +11,9 @@ public class DBConnect {
 	/*
 	 
 	 student_id     student_name      student_class 
-	  	 101			enes				1		
-	     201			rýza				2	
-	     301			yýlmaz				3
+	     101			enes				1		
+	     201			rÃ½za				2	
+	     301			yÃ½lmaz				3
 	     
 	 */
 	public static final String DB_URL = "jdbc:mysql://localhost/university";
@@ -32,7 +32,7 @@ public class DBConnect {
 		
 		//Update
 		//Change student name of row with student id 1
-		//String upSql = "UPDATE student SET student_name='Enes Rýza' WHERE student_id=1";
+		//String upSql = "UPDATE student SET student_name='Enes RÃ½za' WHERE student_id=1";
 		//String pupsql= "UPDATE student SET student_name= ? WHERE student_id = ?"; Prepare Statement
 		
 		
