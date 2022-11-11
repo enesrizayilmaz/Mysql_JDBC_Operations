@@ -10,7 +10,7 @@ import java.sql.Statement;
 public class DBConnect {
 	/*
 	 
-	 student_id     student_name      student_class 
+	 student_id                 student_name                  student_class 
 	     101			enes				1		
 	     201			rýza				2	
 	     301			yýlmaz				3
