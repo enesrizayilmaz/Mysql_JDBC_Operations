@@ -15,6 +15,7 @@ public class DBConnect {
 	     201			rýza				2	
 	     301			yýlmaz				3
 	     
+	     
 	 */
 	public static final String DB_URL = "jdbc:mysql://localhost/university";
 	public static final String DB_USER = "root";
